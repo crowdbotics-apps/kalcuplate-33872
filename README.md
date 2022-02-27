@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [react-native-maps](modules/maps)
 - [react-native-chat](modules/chat)
+- [camera]()
 
 # Getting started: Frontend
 
